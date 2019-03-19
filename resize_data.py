@@ -5,12 +5,9 @@ Created on Tue Mar 19 12:02:02 2019
 @author: wange
 """
 
-
 import cv2
 import os
 import glob
-
-
 
 image_size=128
 
